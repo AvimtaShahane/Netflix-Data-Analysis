@@ -1,2 +1,19 @@
 # Netflix-Data-Analysis
-Exploratory Data Analysis (EDA) of the Netflix Movies &amp; TV Shows dataset using Python, Pandas, Numpy, and Matplotlib in Google Colab. This project focuses on data cleaning, visualization, and extracting insights into Netflix's content trends through comprehensive statistical analysis.
+A comprehensive Exploratory Data Analysis (EDA) project on the Netflix Movies & TV Shows dataset (8,807 records * 12 features) using Python, Pandas, NumPy, and Matplotlib in Google Colab. The project focuses on data preprocessing, visualization, and extracting actionable insights from real-world streaming data.
+
+##Libraries Used
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+
+##Analysis Performed
+- Missing value handling
+- Data preprocessing
+- Genre analysis
+- Rating distribution
+- Country-wise analysis
+- Year-wise analysis
+- Movie vs TV Show comparison
+
+##Sample Visualization
