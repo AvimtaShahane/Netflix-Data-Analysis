@@ -21,6 +21,9 @@ A comprehensive Exploratory Data Analysis (EDA) project on the Netflix Movies & 
 ### Movies vs TV Shows
 ![Movies vs TV Shows](images/movies_vs_tvshows.png)
 
+### Percentage of Content Ratings
+![Percentage of Content Ratings](images/content_Ratings_pie.png)
+
 ### Movies Duration Histogram
 ![Movies Duration Histogram](images/movies_duration_histogram.png)
 
@@ -29,3 +32,10 @@ A comprehensive Exploratory Data Analysis (EDA) project on the Netflix Movies & 
 
 ### Top 10 Countries
 ![Top 10 Countries](images/top10_countries.png)
+
+
+## Conclusion
+This project demonstrates the application of Python-based Exploratory Data Analysis (EDA) techniques to extract meaningful insights from a real-world dataset. Through data preprocessing, visualization, and trend analysis, the project highlights the importance of data-driven decision-making while strengthening practical skills in Python, Pandas, NumPy, and Matplotlib.
+
+Future enhancements may include interactive dashboards, advanced statistical analysis, and machine learning models to further expand the analytical capabilities of the project.
+
